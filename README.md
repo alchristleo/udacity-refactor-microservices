@@ -14,7 +14,7 @@ A basic Ionic client web application which consumes the RestAPI Backend.
 We will use npm to install all the dependency on each service. 
 ```sh
 cd && touch .profile
-** go to root project
+go to root project
 sudo cp .config.example ~/.profile
 ```
 
